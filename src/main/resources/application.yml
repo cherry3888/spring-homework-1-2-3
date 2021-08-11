@@ -1,0 +1,11 @@
+# Application properties
+questionnaire:
+  filename: questions
+
+spring:
+  messages:
+    basename: message
+    encoding: utf-8
+    fallback-to-system-locale: false
+  web:
+    locale: ru
